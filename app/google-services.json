@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "789968678090",
+    "firebase_url": "https://dms-poc-c61fa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dms-poc-c61fa",
+    "storage_bucket": "dms-poc-c61fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789968678090:android:2034c2cc6d80fe4d5d9833",
+        "android_client_info": {
+          "package_name": "com.example.dms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeQeyECZaKqSdGfElJm_a3l92Vu2qbERk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
